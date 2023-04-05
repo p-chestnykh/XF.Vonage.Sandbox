@@ -58,7 +58,7 @@
       <Version>5.0.0.2515</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Vonage.iOS">
-      <Version>2.21.3</Version>
+      <Version>2.24.2.1</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
